@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JasonQuiel/SDVJavaScript/issues"
   },
-  "homepage": "https://github.com/JasonQuiel/SDVJavaScript#readme"
+  "homepage": "https://github.com/JasonQuiel/SDVJavaScript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
