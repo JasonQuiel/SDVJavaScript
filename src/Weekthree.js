@@ -1,4 +1,7 @@
+//Basic of JavaScript
+// Var - Let - Const
+
 console.log('Hello World')
-console.log('Hi')
-var g = "hello world"
-console.log("g")
+console.log('Welcome')
+console.log('Check')
+//Prints to console 
