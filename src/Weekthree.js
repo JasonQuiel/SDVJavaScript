@@ -15,6 +15,6 @@ let letCountry = ('New Zealand')
 
 let letZip = ('7010')
 
-let fullAddress = letAddress+'  '+letCity+'  '+letCountry
+let fullAddress =`${letAddress}  ${letCity}  ${letCountry}`
 //print 
 console.log(fullAddress)
