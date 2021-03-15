@@ -24,3 +24,14 @@ const travel = {
     model: 'Demio',
     year: '2010',    
 }
+// || is or
+// && is and 
+// != is not
+
+
+let c = 12
+if (c != 11){
+    console.log('its true')  // != not c = 12 is not 11 so that equals true
+} else {
+    console.log('error')
+}
