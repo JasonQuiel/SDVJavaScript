@@ -36,4 +36,25 @@ console.log(address)
 let string = `My address is ${country}, ${city}, ${postalCode}.` //String template. Keep in mind ` `
 console.log(string)
 
+let x = 10;
+// If statements ensures data types are correct.
+if (x < 10) {
+    console.log('Jason') }
+    else {
+        console.log('its false')
+    }
+let y = 15
 
+if (y > 10) {
+    console.log('just some text')}
+else {
+    console.log('its false')
+}
+// x === 10 is a hard equality
+if (x = 10 || typeof 'string') { 
+    console.log('this is true')
+}
+else {
+    console.log('Error')
+}
+//  || is or and && and
