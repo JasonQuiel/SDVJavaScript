@@ -7,7 +7,7 @@ const a = 1+1
 //console.log(a)
 
 const b = a + 2
-//console.log(b)
+console.log(b)
 
 let redLion
 //console.log(redLion)
