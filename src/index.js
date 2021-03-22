@@ -12,4 +12,15 @@ if (x === a) {
 } else if (z === a) {
     console.log(z)
 }
+//rockStar = "Mick Jagger"
+//var rockStar;
+//console.log(rockStar); // Prints “Mick Jagger”
+
+var rockStar;
+console.log(rockStar);
+rockStar = 'Mick Jagger';
+
+var myLuckyNumber
+console.log(myLuckyNumber)
+myLuckyNumber = ('My lucky number is 13!')
 
