@@ -128,3 +128,7 @@ console.log(price)
      ticket = 8
     }
 console.log(student)
+
+var a = 3
+var b = 2
+console.log(b + a)
