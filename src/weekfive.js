@@ -114,3 +114,17 @@ switch (isStudent) {
 
 let price = isStudent ? `price is 8` : `price is 12` 
 console.log(price)
+
+
+ let student = 6
+ let ticket 
+ let senior = 8
+
+ if (student) {
+     ticket = 6
+ }
+ else {
+    (senior)
+     ticket = 8
+    }
+console.log(student)
