@@ -80,7 +80,6 @@ switch (goo) {
   default:
     console.log('Please pick a number from 0 to 5!');
 }
-
 let applicant = {
     name: 'tony',
         age: 17,
@@ -132,3 +131,16 @@ console.log(student)
 var a = 3
 var b = 2
 console.log(b + a)
+
+const luckyNumber = 12
+switch (luckyNumber) {
+    case 11:
+        console.log('My lucky number is 11 ')
+    case 12:
+        console.log('My lucky number is 12')
+    case 13:
+        console.log('My lucky number is 13')
+            break
+default:
+    console.log('Not your luck day.')
+}
