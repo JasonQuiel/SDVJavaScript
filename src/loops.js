@@ -1,5 +1,5 @@
 //Loops "iterate(repeat an action multiple times."
-//loops require 3 statments initalize counter; test;
+//loops require 3 statements initalize counter; test;
 let arr = [1,2,3,4,5,6,7]
 console.log(arr.length)
 
