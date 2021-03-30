@@ -4,10 +4,12 @@ let arr = [1,2,3,4,5,6,7]
 console.log(arr.length)
 
 
-for(i = 0; i < arr.length; i++){
-//for(i = 0; i < 5; i++) {            
+//for(i = 0; i < arr.length; i++){
+
+for(i = 0; i < 5; i++) {            
         console.log('hold on to your butts!')
 }
+
 for (let i = 0;;/* 1st statement*/ i++)/*3rd statement*/ {
         console.log("loop, i = "  + i);
         if (i > 1)// 2nd statement
@@ -40,13 +42,14 @@ let array = [0,1,2,3,]
 //   for (let value in object)
 //        console.log( value )
 
-let object = { a: 1, b: 2, c: 3, method: () => {} };
+let object = { a: 1, b: 2, c: 3};
     for (let value in object)
         console.log(value, object)
 
 
-let c = 0;
+let z = 0;
 while (c++ < 1000)
-    if (c > 1)
+    if (z > 1)
         continue
-            console.log(c);
+            console.log(z);
+
